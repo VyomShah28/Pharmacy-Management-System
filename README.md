@@ -19,4 +19,4 @@ Role-based access control (Admin, Pharmacist, Cashier)
 Technologies Used
 Backend: Java
 Database: MySQL
-User Interface: Java FX
+User Interface: Java Swing
