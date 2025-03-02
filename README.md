@@ -1,5 +1,7 @@
-Pharmacy-Management-System
-Overview
+<pre>
+<b>Pharmacy-Management-System</b>
+
+Overview : 
 The Pharmacy Management System is a Java-based application designed to streamline the management of a pharmacy's inventory and sales processes. This system provides an efficient solution for pharmacists to handle day-to-day operations, including managing medicines, processing sales, and generating bills.
 
 Features : 
@@ -20,3 +22,4 @@ Technologies Used
 Backend: Java
 Database: MySQL
 User Interface: Java Swing
+</pre>
